@@ -1,0 +1,1 @@
+# Earthquake-prediction-using-Cat-boosting-and-SVM-algorithm
